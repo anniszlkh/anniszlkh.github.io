@@ -31,7 +31,7 @@ html{
 }
 
 body{
-   background-image: url('images/wallpaper.png.jpg');
+   background-image: url('wallpaper.png.jpg');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
