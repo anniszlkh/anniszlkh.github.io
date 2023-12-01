@@ -31,7 +31,7 @@ html{
 }
 
 body{
-   background-image: ![wallpaper png](https://github.com/anniszlkh/anniszlkh.github.io/assets/152512491/0aa0fee0-3919-40a6-a3ba-8d25e9ea403d)
+   background-image: url('images/wallpaper.png.jpg');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
